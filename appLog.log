@@ -1,0 +1,162 @@
+2023-05-10 16:53:54,251 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 16:53:54,257 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 16:53:54,312 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-10 16:53:54,313 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-10 16:53:54,821 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 16:53:54,864 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 37 ms. Found 4 JPA repository interfaces.
+2023-05-10 16:53:55,272 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 16:53:55,278 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 16:53:55,278 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 16:53:55,337 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 16:53:55,337 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1023 ms
+2023-05-10 16:53:55,445 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 16:53:55,471 [INFO] org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.8.Final
+2023-05-10 16:53:55,568 [INFO] org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-10 16:53:55,634 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-05-10 16:53:58,039 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-05-10 16:53:58,071 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 16:54:02,374 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 16:54:02,378 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 16:54:02,675 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 16:54:03,177 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 16:54:03,207 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 16:54:03,216 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 9.304 seconds (JVM running for 9.997)
+2023-05-10 17:41:41,884 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:41:41,888 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2023-05-10 17:41:41,891 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2023-05-10 17:41:41,965 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:41:41,965 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:41:42,099 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:41:42,108 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 8 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:41:42,199 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 17:41:42,200 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 17:41:42,200 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 17:41:42,207 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 17:41:42,207 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 240 ms
+2023-05-10 17:41:42,239 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:41:42,242 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2023-05-10 17:41:44,187 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2023-05-10 17:41:44,188 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:41:47,387 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:41:47,388 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:41:47,500 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:41:47,873 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 17:41:47,882 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 17:41:47,885 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 5.945 seconds (JVM running for 2874.666)
+2023-05-10 17:41:47,887 [INFO] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2023-05-10 17:42:03,319 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-7] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:42:03,319 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown initiated...
+2023-05-10 17:42:03,320 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown completed.
+2023-05-10 17:42:03,372 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:42:03,372 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:42:03,463 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:42:03,469 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 6 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:42:03,525 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 17:42:03,526 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 17:42:03,526 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 17:42:03,531 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 17:42:03,531 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 157 ms
+2023-05-10 17:42:03,552 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:42:03,555 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2023-05-10 17:42:05,301 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2023-05-10 17:42:05,302 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:42:08,146 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:42:08,147 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:42:08,257 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:42:08,452 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 17:42:08,460 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 17:42:08,463 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 5.108 seconds (JVM running for 2895.244)
+2023-05-10 17:42:08,464 [INFO] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2023-05-10 17:44:20,126 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-11] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:44:20,127 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown initiated...
+2023-05-10 17:44:20,130 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-11] HikariPool-3 - Shutdown completed.
+2023-05-10 17:44:20,202 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:44:20,202 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:44:20,285 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:44:20,291 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 6 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:44:20,343 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 17:44:20,347 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 17:44:20,347 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 17:44:20,357 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 17:44:20,357 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 153 ms
+2023-05-10 17:44:20,378 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:44:20,380 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Starting...
+2023-05-10 17:44:22,274 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Start completed.
+2023-05-10 17:44:22,275 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:44:25,356 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:44:25,357 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:44:25,426 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:44:25,623 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 17:44:25,631 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 17:44:25,635 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 5.449 seconds (JVM running for 3032.415)
+2023-05-10 17:44:25,637 [INFO] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2023-05-10 17:47:39,383 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-15] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:47:39,385 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-4 - Shutdown initiated...
+2023-05-10 17:47:39,388 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-4 - Shutdown completed.
+2023-05-10 17:47:39,456 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:47:39,456 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:47:39,542 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:47:39,549 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 6 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:47:39,604 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 17:47:39,605 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 17:47:39,605 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 17:47:39,610 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 17:47:39,610 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 153 ms
+2023-05-10 17:47:39,638 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:47:39,643 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2023-05-10 17:47:41,524 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2023-05-10 17:47:41,525 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:47:44,626 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:47:44,626 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:47:44,711 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:47:44,923 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 17:47:44,931 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 17:47:44,934 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 5.495 seconds (JVM running for 3231.715)
+2023-05-10 17:47:44,935 [INFO] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2023-05-10 17:48:30,405 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-19] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:48:30,405 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-5 - Shutdown initiated...
+2023-05-10 17:48:30,406 [INFO] com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-5 - Shutdown completed.
+2023-05-10 17:48:30,472 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Starting DreamsathisApplication using Java 15.0.1 on osihar-MS-7B33 with PID 68477 (/home/osihar/dreamsathis/target/classes started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:48:30,472 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:48:30,560 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:48:30,566 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 6 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:48:30,624 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9091 (http)
+2023-05-10 17:48:30,625 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-05-10 17:48:30,625 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.62]
+2023-05-10 17:48:30,630 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-05-10 17:48:30,630 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 155 ms
+2023-05-10 17:48:30,654 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:48:30,656 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Starting...
+2023-05-10 17:48:32,502 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Start completed.
+2023-05-10 17:48:32,503 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:48:35,479 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:48:35,480 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:48:35,570 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:48:35,774 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-05-10 17:48:35,781 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9091 (http) with context path '/blog'
+2023-05-10 17:48:35,784 [INFO] com.dreamsathis.DreamsathisApplication [restartedMain] Started DreamsathisApplication in 5.333 seconds (JVM running for 3282.565)
+2023-05-10 17:48:35,785 [INFO] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2023-05-10 17:49:07,242 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/blog] [http-nio-9091-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-10 17:49:07,242 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-2] Initializing Servlet 'dispatcherServlet'
+2023-05-10 17:49:07,243 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-9091-exec-2] Completed initialization in 1 ms
+2023-05-10 17:49:27,672 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(60)-127.0.0.1] Application shutdown requested.
+2023-05-10 17:49:27,678 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(60)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:49:27,679 [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(60)-127.0.0.1] HikariPool-6 - Shutdown initiated...
+2023-05-10 17:49:27,680 [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(60)-127.0.0.1] HikariPool-6 - Shutdown completed.
+2023-05-10 17:49:53,152 [INFO] com.dreamsathis.DreamsathisApplicationTests [main] Starting DreamsathisApplicationTests using Java 15.0.1 on osihar-MS-7B33 with PID 70263 (started by osihar in /home/osihar/dreamsathis)
+2023-05-10 17:49:53,153 [INFO] com.dreamsathis.DreamsathisApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-05-10 17:49:53,666 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-05-10 17:49:53,709 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 37 ms. Found 4 JPA repository interfaces.
+2023-05-10 17:49:54,100 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-05-10 17:49:54,130 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.8.Final
+2023-05-10 17:49:54,241 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-05-10 17:49:54,316 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-05-10 17:49:56,261 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-05-10 17:49:56,279 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2023-05-10 17:49:59,636 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-05-10 17:49:59,654 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:50:00,200 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-05-10 17:50:01,176 [INFO] com.dreamsathis.DreamsathisApplicationTests [main] Started DreamsathisApplicationTests in 8.266 seconds (JVM running for 9.094)
+2023-05-10 17:50:01,414 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-10 17:50:01,416 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-05-10 17:50:01,447 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
